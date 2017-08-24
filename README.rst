@@ -1,7 +1,7 @@
 =============
 pyechometrics
 =============
-Reads echograms and mask and produces water-column summary metrics (in development)
+Produces water-column summary metrics from echosounder data (in development)
 ---------------------------------------------------------------------------------
 
 developed by Roland Proud (rp43@st-andrews.ac.uk)
